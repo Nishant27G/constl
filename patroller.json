@@ -1,0 +1,58 @@
+{
+  "patrollers": [
+    {
+      "id": 1,
+      "name": "Ravi Kumar",
+      "initials": "RK",
+      "phone": "+91 99876 54321",
+      "vehicleNumber": "DL 01 AB 1234",
+      "vehicleStatus": "Verified",
+      "attendance": "Present",
+      "canAssignRoutes": true,
+      "routesAssigned": 1,
+      "reportedCount": 3,
+      "routes": [
+        {
+          "routeId": "R001",
+          "routeName": "Sector 70 Patrol Route"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sandeep Verma",
+      "initials": "SV",
+      "phone": "+91 98765 12345",
+      "vehicleNumber": "DL 02 CD 5678",
+      "vehicleStatus": "Verified",
+      "attendance": "Present",
+      "canAssignRoutes": true,
+      "routesAssigned": 1,
+      "reportedCount": 2,
+      "routes": [
+        {
+          "routeId": "R002",
+          "routeName": "Airport Road Patrol Route"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mohan Lal",
+      "initials": "ML",
+      "phone": "+91 91234 56789",
+      "vehicleNumber": "DL 03 EF 9012",
+      "vehicleStatus": "Verified",
+      "attendance": "Present",
+      "canAssignRoutes": true,
+      "routesAssigned": 1,
+      "reportedCount": 1,
+      "routes": [
+        {
+          "routeId": "R003",
+          "routeName": "Industrial Area Patrol Route"
+        }
+      ]
+    }
+  ]
+}
