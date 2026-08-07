@@ -17,8 +17,8 @@
             "latitude": 12.88942,
             "longitude": 79.59487
           },
-          "associatedServiceIds": ["2"],
-          "identifiedOtsLinks": ["AP/CHI/GN-CBL000002_02"]
+          "associatedServiceIds": ["100"],
+          "identifiedOtsLinks": ["MP/RWA/GHI-CBL000002"]
         }
       ]
 }
