@@ -1,72 +1,89 @@
 {
   "data": [
-    [
-      78.205834736,
-      20.368529156
-    ],
-    [
-      78.211245,
-      20.352817
-    ],
-    [
-      78.216082,
-      20.337429
-    ],
-    [
-      78.222561,
-      20.321648
-    ],
-    [
-      78.230118,
-      20.306273
-    ],
-    [
-      78.237904,
-      20.291085
-    ],
-    [
-      78.245362,
-      20.276312
-    ],
-    [
-      78.252718,
-      20.261479
-    ],
-    [
-      78.260431,
-      20.246883
-    ],
-    [
-      78.268226,
-      20.232418
-    ],
-    [
-      78.275904,
-      20.218251
-    ],
-    [
-      78.283467,
-      20.204312
-    ],
-    [
-      78.290812,
-      20.190586
-    ],
-    [
-      78.297905,
-      20.177139
-    ],
-    [
-      78.304518,
-      20.164028
-    ],
-    [
-      78.308726,
-      20.152441
-    ],
-    [
-      78.3105,
-      20.142
-    ]
+    {
+      "Ownership": "Third Party",
+      "cable_type": "Overhead",
+      "geometrytype": "LineString",
+      "projectcodemstid": 100,
+      "id": 99999,
+      "deviceTypeAttributes": [
+        {
+          "id": 477921,
+          "attrValue": "Cable",
+          "attrName": "entity_type"
+        },
+        {
+          "id": 477922,
+          "attrValue": "MP/GWA/GHI-CBL000002",
+          "attrName": "network_id"
+        },
+        {
+          "id": 477923,
+          "attrValue": "MP/GWA/GHI-CBL000002",
+          "attrName": "cable_name"
+        },
+        {
+          "id": 477924,
+          "attrValue": "32.27",
+          "attrName": "cable_calculated_length"
+        },
+        {
+          "id": 477925,
+          "attrValue": "32.27000045776367",
+          "attrName": "gis_length"
+        },
+        {
+          "id": 477926,
+          "attrValue": "Noida to Dhule",
+          "attrName": "project_code"
+        },
+        {
+          "id": 477927,
+          "attrValue": "GWA",
+          "attrName": "district_name"
+        },
+        {
+          "id": 477928,
+          "attrValue": "2",
+          "attrName": "no_of_core_per_tube"
+        },
+        {
+          "id": 477929,
+          "attrValue": "2",
+          "attrName": "total_core"
+        },
+        {
+          "id": 477930,
+          "attrValue": "Third Party",
+          "attrName": "Ownership"
+        },
+        {
+          "id": 477931,
+          "attrValue": "MPPTCL",
+          "attrName": "third_party_vendor_name"
+        },
+        {
+          "id": 477932,
+          "attrValue": "MPPTCL",
+          "attrName": "vendor_name"
+        },
+        {
+          "id": 477933,
+          "attrValue": "1",
+          "attrName": "no_of_tube"
+        },
+        {
+          "id": 477934,
+          "attrValue": "GHI",
+          "attrName": "block_name"
+        },
+        {
+          "id": 477935,
+          "attrValue": "Overhead",
+          "attrName": "cable_type"
+        }
+      ],
+      "geocoords": "[[78.205834736,20.368529156],[78.211245,20.352817],[78.216082,20.337429],[78.222561,20.321648],[78.230118,20.306273],[78.237904,20.291085],[78.245362,20.276312],[78.252718,20.261479],[78.260431,20.246883],[78.268226,20.232418],[78.275904,20.218251],[78.283467,20.204312],[78.290812,20.190586],[78.297905,20.177139],[78.304518,20.164028],[78.308726,20.152441],[78.3105,20.142]]"
+    }
   ]
 }
