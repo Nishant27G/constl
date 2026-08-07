@@ -8,77 +8,77 @@
       "id": 99999,
       "deviceTypeAttributes": [
         {
-          "id": 477921,
+          "id": 999991,
           "attrValue": "Cable",
           "attrName": "entity_type"
         },
         {
-          "id": 477922,
-          "attrValue": "MP/GWA/GHI-CBL000002",
+          "id": 999992,
+          "attrValue": "MP/RWA/GHI-CBL000002",
           "attrName": "network_id"
         },
         {
-          "id": 477923,
-          "attrValue": "MP/GWA/GHI-CBL000002",
+          "id": 999992,
+          "attrValue": "MP/RWA/GHI-CBL000002",
           "attrName": "cable_name"
         },
         {
-          "id": 477924,
+          "id": 999994,
           "attrValue": "32.27",
           "attrName": "cable_calculated_length"
         },
         {
-          "id": 477925,
+          "id": 999995,
           "attrValue": "32.27000045776367",
           "attrName": "gis_length"
         },
         {
-          "id": 477926,
-          "attrValue": "Noida to Dhule",
+          "id": 999996,
+          "attrValue": "NLD22_MUM-PUNE-HYD Path 2",
           "attrName": "project_code"
         },
         {
-          "id": 477927,
-          "attrValue": "GWA",
+          "id": 999997,
+          "attrValue": "RWA",
           "attrName": "district_name"
         },
         {
-          "id": 477928,
-          "attrValue": "2",
+          "id": 999998,
+          "attrValue": "4",
           "attrName": "no_of_core_per_tube"
         },
         {
-          "id": 477929,
-          "attrValue": "2",
+          "id": 999999,
+          "attrValue": "4",
           "attrName": "total_core"
         },
         {
-          "id": 477930,
+          "id": 999990,
           "attrValue": "Third Party",
           "attrName": "Ownership"
         },
         {
-          "id": 477931,
+          "id": 999989,
           "attrValue": "MPPTCL",
           "attrName": "third_party_vendor_name"
         },
         {
-          "id": 477932,
+          "id": 999988,
           "attrValue": "MPPTCL",
           "attrName": "vendor_name"
         },
         {
-          "id": 477933,
+          "id": 999987,
           "attrValue": "1",
           "attrName": "no_of_tube"
         },
         {
-          "id": 477934,
+          "id": 999986,
           "attrValue": "GHI",
           "attrName": "block_name"
         },
         {
-          "id": 477935,
+          "id": 999985,
           "attrValue": "Overhead",
           "attrName": "cable_type"
         }
