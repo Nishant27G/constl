@@ -14,11 +14,11 @@
           "lastModified": "03-06-2026 17:15",
           "lastResponse": "03-06-2026 17:10",
           "coordinates": {
-            "latitude": 19.793837175,
-            "longitude": 77.511321075
+            "latitude": 18.649539926,
+            "longitude": 76.052747966,
           },
           "associatedServiceIds": ["34"],
-          "identifiedOtsLinks": ["MP/GHA/GHI-CBL000002"]
+          "identifiedOtsLinks": ["MH/BEE/KA-CBL000002"]
         }
       ]
 }
