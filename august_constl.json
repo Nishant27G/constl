@@ -14,11 +14,11 @@
           "lastModified": "03-06-2026 17:15",
           "lastResponse": "03-06-2026 17:10",
           "coordinates": {
-            "latitude": 18.649539926,
-            "longitude": 76.052747966
+            "latitude": 18.411133194,
+            "longitude": 74.234026372
           },
           "associatedServiceIds": ["1"],
-          "identifiedOtsLinks": ["MH/BEE/KA-CBL000002"]
+          "identifiedOtsLinks": ["MH/PNQ/PUN-CBL000027_01_02_01_02"]
         }
       ]
 }
