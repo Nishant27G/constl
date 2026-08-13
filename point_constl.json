@@ -1,0 +1,1230 @@
+{
+    "data": {
+        "lastPage": 1,
+        "pageSize": 50000,
+        "page": 1,
+        "totalCount": 23,
+        "items": [
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "STT Shivananda salai",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[80.278856,13.068339]",
+                "projectCodeId": 9,
+                "dataCentreName": "108_Data Centre(DC)",
+                "id": 39367,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 462589,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 462590,
+                        "attrValue": "TN/CHE/CAI-DC001",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 462591,
+                        "attrValue": "ST02",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 462592,
+                        "attrValue": "Chennai",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 462593,
+                        "attrValue": "CHE",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 462594,
+                        "attrValue": "CHE",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 462595,
+                        "attrValue": "CAI",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 462596,
+                        "attrValue": "Chennai Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "Sify Sec 132 Noida",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[77.372533,28.51385]",
+                "projectCodeId": 2,
+                "dataCentreName": "41_Data Centre(DC)",
+                "id": 39572,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 464785,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 464786,
+                        "attrValue": "UP/GAU/NOA-DC014",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 464787,
+                        "attrValue": "SF03",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 464788,
+                        "attrValue": "Gautam Buddha Nagar",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 464789,
+                        "attrValue": "GAU",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 464790,
+                        "attrValue": "GAU",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 464791,
+                        "attrValue": "NOA",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 464792,
+                        "attrValue": "Delhi Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "STT GK",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[77.239352,28.54366]",
+                "projectCodeId": 2,
+                "dataCentreName": "154_Data Centre(DC)",
+                "id": 39573,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 464793,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 464794,
+                        "attrValue": "DL/SOE/KAA-DC010",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 464795,
+                        "attrValue": "ST04",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 464796,
+                        "attrValue": "South East",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 464797,
+                        "attrValue": "SOE",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 464798,
+                        "attrValue": "SOE",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 464799,
+                        "attrValue": "KAA",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 464800,
+                        "attrValue": "Delhi Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "Adani Sipcot",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[80.225869,12.821459]",
+                "projectCodeId": 9,
+                "dataCentreName": "60_Data Centre(DC)",
+                "id": 39640,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 465559,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 465560,
+                        "attrValue": "TN/CHP/TUP-DC011",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 465561,
+                        "attrValue": "AD01",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 465562,
+                        "attrValue": "Chengalpattu",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 465563,
+                        "attrValue": "CHP",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 465564,
+                        "attrValue": "CHP",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 465565,
+                        "attrValue": "TUP",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 465566,
+                        "attrValue": "Chennai Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "Nxtra Dc1 Sipcot",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[80.220778,12.830765]",
+                "projectCodeId": 9,
+                "dataCentreName": "74_Data Centre(DC)",
+                "id": 39641,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 465567,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 465568,
+                        "attrValue": "TN/CHP/TUP-DC009",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 465569,
+                        "attrValue": "NX02",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 465570,
+                        "attrValue": "Chengalpattu",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 465571,
+                        "attrValue": "CHP",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 465572,
+                        "attrValue": "CHP",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 465573,
+                        "attrValue": "TUP",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 465574,
+                        "attrValue": "Chennai Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "Nxtra Ph2 Noida",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[77.411122,28.545303]",
+                "projectCodeId": 2,
+                "dataCentreName": "48_Data Centre(DC)",
+                "id": 39679,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 466008,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 466009,
+                        "attrValue": "UP/GAU/SAR-DC019",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 466010,
+                        "attrValue": "NX04",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 466011,
+                        "attrValue": "Gautam Buddha Nagar",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 466012,
+                        "attrValue": "GAU",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 466013,
+                        "attrValue": "GAU",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 466014,
+                        "attrValue": "SAR",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 466015,
+                        "attrValue": "Delhi Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "NTT DC2 Ambattur",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[80.166773,13.099362]",
+                "projectCodeId": 9,
+                "dataCentreName": "71_Data Centre(DC)",
+                "id": 39753,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 466831,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 466832,
+                        "attrValue": "TN/CHE/AMT-DC005",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 466833,
+                        "attrValue": "NT02",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 466834,
+                        "attrValue": "Chennai",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 466835,
+                        "attrValue": "CHE",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 466836,
+                        "attrValue": "CHE",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 466837,
+                        "attrValue": "AMT",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 466838,
+                        "attrValue": "Chennai Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "Sify Tidel park",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[80.248523,12.989629]",
+                "projectCodeId": 9,
+                "dataCentreName": "59_Data Centre(DC)",
+                "id": 39839,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 467726,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 467727,
+                        "attrValue": "TN/CHE/CAI-DC018",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 467728,
+                        "attrValue": "SF01",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 467729,
+                        "attrValue": "Chennai",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 467730,
+                        "attrValue": "CHE",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 467731,
+                        "attrValue": "CHE",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 467732,
+                        "attrValue": "CAI",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 467733,
+                        "attrValue": "Chennai Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "Yotta Gr. Noida",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[77.483237,28.552246]",
+                "projectCodeId": 2,
+                "dataCentreName": "49_Data Centre(DC)",
+                "id": 40313,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 473019,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 473020,
+                        "attrValue": "UP/GAU/DAI-DC022",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 473021,
+                        "attrValue": "YT01",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 473022,
+                        "attrValue": "Gautam Buddha Nagar",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 473023,
+                        "attrValue": "GAU",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 473024,
+                        "attrValue": "GAU",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 473025,
+                        "attrValue": "DAI",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 473026,
+                        "attrValue": "Delhi Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "STT Madhapur",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[78.377928,17.441456]",
+                "projectCodeId": 10,
+                "dataCentreName": "152_Data Centre(DC)",
+                "id": 39913,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 468568,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 468569,
+                        "attrValue": "TL/HYD/GH-DC001",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 468570,
+                        "attrValue": "ST06",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 468571,
+                        "attrValue": "Hyderabad",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 468572,
+                        "attrValue": "HYD",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 468573,
+                        "attrValue": "HYD",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 468574,
+                        "attrValue": "GH",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 468575,
+                        "attrValue": "Hyderabad Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "Nxtra Chandivali",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[72.889263,19.114224]",
+                "projectCodeId": 7,
+                "dataCentreName": "125_Data Centre(DC)",
+                "id": 45515,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 531684,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 531685,
+                        "attrValue": "MH/MUM/GRT-DC010",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 531686,
+                        "attrValue": "NX06",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 531687,
+                        "attrValue": "Mumbai Suburban",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 531688,
+                        "attrValue": "MUM",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 531689,
+                        "attrValue": "MUM",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 531690,
+                        "attrValue": "GRT",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 531691,
+                        "attrValue": "Mumbai Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "NTT2",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[77.437053,28.593452]",
+                "projectCodeId": 2,
+                "dataCentreName": "81_Data Centre(DC)",
+                "id": 40181,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 471577,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 471578,
+                        "attrValue": "UP/GAU/BIA-DC004",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 471579,
+                        "attrValue": "NT04",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 471580,
+                        "attrValue": "Gautam Buddha Nagar",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 471581,
+                        "attrValue": "GAU",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 471582,
+                        "attrValue": "GAU",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 471583,
+                        "attrValue": "BIA",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 471584,
+                        "attrValue": "Delhi Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "Nxtra Santhome",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[80.272613,13.024969]",
+                "projectCodeId": 9,
+                "dataCentreName": "110_Data Centre(DC)",
+                "id": 40592,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 476096,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 476097,
+                        "attrValue": "TN/CHE/CAI-DC002",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 476098,
+                        "attrValue": "NX01",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 476099,
+                        "attrValue": "Chennai",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 476100,
+                        "attrValue": "CHE",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 476101,
+                        "attrValue": "CHE",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 476102,
+                        "attrValue": "CAI",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 476103,
+                        "attrValue": "Chennai Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "Sify Airoli",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[72.999748,19.169329]",
+                "projectCodeId": 7,
+                "dataCentreName": "96_Data Centre(DC)",
+                "id": 40972,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 480345,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 480346,
+                        "attrValue": "MH/THA/NA -DC001",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 480347,
+                        "attrValue": "SF04",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 480348,
+                        "attrValue": "Thane",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 480349,
+                        "attrValue": "THA",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 480350,
+                        "attrValue": "THA",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 480351,
+                        "attrValue": "NA ",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 480352,
+                        "attrValue": "Mumbai Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "Nxtra Sec 62 Noida",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[77.372014,28.62817]",
+                "projectCodeId": 2,
+                "dataCentreName": "88_Data Centre(DC)",
+                "id": 42966,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 502588,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 502589,
+                        "attrValue": "UP/GAU/NOA-DC001",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 502590,
+                        "attrValue": "NX05",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 502591,
+                        "attrValue": "Gautam Buddha Nagar",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 502592,
+                        "attrValue": "GAU",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 502593,
+                        "attrValue": "GAU",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 502594,
+                        "attrValue": "NOA",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 502595,
+                        "attrValue": "Delhi Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "STT BKC",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[72.871325,19.069358]",
+                "projectCodeId": 7,
+                "dataCentreName": "101_Data Centre(DC)",
+                "id": 41352,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 484532,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 484533,
+                        "attrValue": "MH/MUM/GRT-DC015",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 484534,
+                        "attrValue": "ST07",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 484535,
+                        "attrValue": "Mumbai Suburban",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 484536,
+                        "attrValue": "MUM",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 484537,
+                        "attrValue": "MUM",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 484538,
+                        "attrValue": "GRT",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 484539,
+                        "attrValue": "Mumbai Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "Nxtra DC2 Sipcot",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[80.213357,12.821917]",
+                "projectCodeId": 9,
+                "dataCentreName": "73_Data Centre(DC)",
+                "id": 41562,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 486892,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 486893,
+                        "attrValue": "TN/CHP/TUP-DC008",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 486894,
+                        "attrValue": "NX03",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 486895,
+                        "attrValue": "Chengalpattu",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 486896,
+                        "attrValue": "CHP",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 486897,
+                        "attrValue": "CHP",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 486898,
+                        "attrValue": "TUP",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 486899,
+                        "attrValue": "Chennai Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "BAM Ambattur",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[80.164454,13.10049]",
+                "projectCodeId": 9,
+                "dataCentreName": "87_Data Centre(DC)",
+                "id": 41860,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 490241,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 490242,
+                        "attrValue": "TN/CHE/AMT-DC010",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 490243,
+                        "attrValue": "BM01",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 490244,
+                        "attrValue": "Chennai",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 490245,
+                        "attrValue": "CHE",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 490246,
+                        "attrValue": "CHE",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 490247,
+                        "attrValue": "AMT",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 490248,
+                        "attrValue": "Chennai Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "CtrlS",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[80.162743,13.107768]",
+                "projectCodeId": 9,
+                "dataCentreName": "150_Data Centre(DC)",
+                "id": 41861,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 490249,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 490250,
+                        "attrValue": "TN/CHE/AMT-DC001",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 490251,
+                        "attrValue": "CT01",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 490252,
+                        "attrValue": "Chennai",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 490253,
+                        "attrValue": "CHE",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 490254,
+                        "attrValue": "CHE",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 490255,
+                        "attrValue": "AMT",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 490256,
+                        "attrValue": "Chennai Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "STT Ambattur",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[80.165783,13.131182]",
+                "projectCodeId": 9,
+                "dataCentreName": "85_Data Centre(DC)",
+                "id": 42368,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 495889,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 495890,
+                        "attrValue": "TN/CHE/AMT-DC002",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 495891,
+                        "attrValue": "ST01",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 495892,
+                        "attrValue": "Chennai",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 495893,
+                        "attrValue": "CHE",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 495894,
+                        "attrValue": "CHE",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 495895,
+                        "attrValue": "AMT",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 495896,
+                        "attrValue": "Chennai Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "NTT DC1 Thiruverkadu",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[80.134056,13.060826]",
+                "projectCodeId": 9,
+                "dataCentreName": "72_Data Centre(DC)",
+                "id": 43955,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 514113,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 514114,
+                        "attrValue": "TN/CHE/TDU-DC006",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 514115,
+                        "attrValue": "NT01",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 514116,
+                        "attrValue": "Chennai",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 514117,
+                        "attrValue": "CHE",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 514118,
+                        "attrValue": "CHE",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 514119,
+                        "attrValue": "TDU",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 514120,
+                        "attrValue": "Chennai Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "GPX-2",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[72.901196,19.110857]",
+                "projectCodeId": 7,
+                "dataCentreName": "124_Data Centre(DC)",
+                "id": 43921,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 513743,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 513744,
+                        "attrValue": "MH/MUM/GRT-DC001",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 513745,
+                        "attrValue": "GP02",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 513746,
+                        "attrValue": "Mumbai Suburban",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 513747,
+                        "attrValue": "MUM",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 513748,
+                        "attrValue": "MUM",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 513749,
+                        "attrValue": "GRT",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 513750,
+                        "attrValue": "Mumbai Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            },
+            {
+                "deviceType": "Data Center",
+                "deviceTypeImageUrl": null,
+                "buildingName": "Relwa",
+                "deviceTypeId": 5,
+                "geometryCoordinates": "[80.221986,12.836881]",
+                "projectCodeId": 9,
+                "dataCentreName": "421_POP",
+                "id": 51520,
+                "deviceTypeAttributes": [
+                    {
+                        "id": 603486,
+                        "attrValue": "Data Center",
+                        "attrName": "entity_type"
+                    },
+                    {
+                        "id": 603487,
+                        "attrValue": "TN/CHP/TUP-DC013",
+                        "attrName": "network_id"
+                    },
+                    {
+                        "id": 603488,
+                        "attrValue": "RL01",
+                        "attrName": "dc_name"
+                    },
+                    {
+                        "id": 603489,
+                        "attrValue": "Chengalpattu",
+                        "attrName": "region_id"
+                    },
+                    {
+                        "id": 603490,
+                        "attrValue": "CHP",
+                        "attrName": "province_id"
+                    },
+                    {
+                        "id": 603491,
+                        "attrValue": "CHP",
+                        "attrName": "district_name"
+                    },
+                    {
+                        "id": 603492,
+                        "attrValue": "TUP",
+                        "attrName": "block_name"
+                    },
+                    {
+                        "id": 603493,
+                        "attrValue": "Chennai Metro Ph1",
+                        "attrName": "project_code"
+                    }
+                ],
+                "geometryType": "Point"
+            }
+        ]
+    },
+    "statusCode": 200
+}
