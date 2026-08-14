@@ -14,11 +14,11 @@
           "lastModified": "03-06-2026 17:15",
           "lastResponse": "03-06-2026 17:10",
           "coordinates": {
-            "latitude": 20.7093916,
-            "longitude": 76.8019005
+            "latitude": 13.10461076,
+            "longitude": 80.153178809
           },
           "associatedServiceIds": ["9"],
-          "identifiedOtsLinks": ["MH/BUL/MAA-CBL000002_02"]
+          "identifiedOtsLinks": ["IAPNG-NG01-ITNCH-AM01-1004_5"]
         }
       ]
 }
