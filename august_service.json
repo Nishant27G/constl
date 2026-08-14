@@ -1,1 +1,24 @@
-
+{
+      "data": [
+        {
+          "ticketId": "TICK-2026-9999",
+          "subject":
+            "Critical Fiber Cut Due to Duct Damage",
+          "status": "In Progress",
+          "severity": "Critical",
+          "priority": "P1",
+          "ticketType": "Outage",
+          "serviceImpacted": "Yes",
+          "ticketCreatedDateTime": "03-06-2026 14:30",
+          "etr": "03-06-2026 22:30",
+          "lastModified": "03-06-2026 17:15",
+          "lastResponse": "03-06-2026 17:10",
+          "coordinates": {
+            "latitude": 19.076,
+            "longitude": 72.8777
+          },
+          "associatedServiceIds": ["PLC-MUM-CHE-00005"],
+          "identifiedOtsLinks": ["IMHMB-NX06-IMHMB-ST07-404"]
+        }
+      ]
+}
